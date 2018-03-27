@@ -11,4 +11,4 @@ GPS: Andoer NEO-6M GPS
 Height: SMAKN® BMP180 Digital Barometric
 Battery: 5200mah 10C - lasts for 5 min. ~ a bit heavier I suppose
 
-<img src="https://github.com/yebeman/AutonomousQuadCopter/blob/master/Quad%20Pics/IMG_0008.jpg" alt="QuadCopter" width="500" height="375">
+<img src="https://github.com/yebeman/AutonomousQuadCopter/blob/master/Quad%20Pics/IMG_0008.jpg" alt="QuadCopter" height="500" width="375">
